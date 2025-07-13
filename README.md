@@ -1,3 +1,5 @@
+#### ‼️ This was just some practice training that I did as a proof of concept to myself before I built the actual model for a project involving faces. That repo is much cooler, but it is private so you'll have to enjoy this one instead.   
+
 This repo houses a fairly simple model that uses a Convolutional Neural Network to predict and plot keypoints on faces.
 
 The idea is that we will use this to inform a homography between two "face pictures" so that we can merge the hair of one with the face of another. 
